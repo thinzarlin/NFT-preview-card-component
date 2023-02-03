@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot.png)
+![](images/screenshot.png)
 
 ### Links
 
@@ -42,11 +42,12 @@ Users should be able to:
 - Mobile-first workflow
 - [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - CSS Framework
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-```css image overlay fade
+- CSS Image overlay fade
+
+```css 
 .card-img-overlay {
     position: absolute;
     width: 100%;
